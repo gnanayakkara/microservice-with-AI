@@ -27,3 +27,6 @@ replay_pid*
 activityservice/pom.xml
 .idea/misc.xml
 /.idea
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/misc.xml
