@@ -20,6 +20,7 @@ public class Recommendation {
     private String userId;
     private String activityType;
     private String recommendation;
+    private List<String> improvements;
     private List<String> suggestion;
     private List<String> safety;
     @CreatedDate
